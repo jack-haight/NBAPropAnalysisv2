@@ -1,7 +1,7 @@
 # ── Data ──────────────────────────────────────────────────────
-GITHUB_DATA_BASE_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/player_data_cache/"
+GITHUB_DATA_BASE_URL = "https://raw.githubusercontent.com/jack-haight/NBAPropAnalysisv2/main/player_data_cache/"
 LOCAL_CACHE_DIR = "player_data_cache"
-DEFAULT_SEASON = "2024-25"
+DEFAULT_SEASON = "2025-26"
 MIN_GAMES_THRESHOLD = 10
 
 # ── Analysis ──────────────────────────────────────────────────
